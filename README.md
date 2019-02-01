@@ -1,1 +1,1 @@
-# abed_ghazi-
+# hackerrank : creating and manipulating a list in python 
